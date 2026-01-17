@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  zkml-guard:
+    build: ..
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../data:/workspace/data
+      - ../models:/workspace/models
+    environment:
+      - CUDA_VISIBLE_DEVICES=0

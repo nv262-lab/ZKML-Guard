@@ -1,0 +1,19 @@
+{
+  "description": "Public transaction samples from incident reports and on-chain data",
+  "num_samples": 500,
+  "num_features": 42,
+  "class_distribution": {
+    "Safe (0)": 223,
+    "Low Risk (1)": 104,
+    "Medium Risk (2)": 67,
+    "High Risk (3)": 62,
+    "Critical (4)": 44
+  },
+  "sources": [
+    "Public forensic reports (Sygnia, NCC Group)",
+    "On-chain transaction data (Etherscan)",
+    "Known attack patterns (public CVE reports)"
+  ],
+  "date_range": "2023-01 to 2025-12",
+  "anonymization": "All addresses hashed, no PII included"
+}
