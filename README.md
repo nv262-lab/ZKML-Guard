@@ -335,34 +335,9 @@ Areas of interest:
 - Support for additional MPC custody platforms
 - Performance optimizations for proof generation
 
-## 📝 Citation
-
-If you use ZKML-Guard in your research, please cite:
-
-```bibtex
-@article{zkmlguard2025,
-  title={ZKML-Secured MPC Custody: Verifiable Inference for Blind Signing Prevention in Digital Asset Management},
-  author={[Authors]},
-  journal={[Conference/Journal]},
-  year={2025}
-}
-```
-
 ## 📜 License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
-
-## 🙏 Acknowledgments
-
-- Custody providers for data sharing agreements
-- EZKL team for ZKML framework
-- Security firms (Sygnia, NCC Group) for public forensic reports
-
-## 📧 Contact
-
-- **Issues**: [GitHub Issues](https://github.com/zkml-guard/zkml-guard/issues)
-- **Email**: security@zkml-guard.org
-- **Discord**: [Join our community](https://discord.gg/zkml-guard)
 
 ## ⚠️ Limitations
 
