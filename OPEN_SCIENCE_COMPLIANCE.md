@@ -313,21 +313,21 @@ Expected output should match Table 1 from paper:
 - **GitHub Issues**: Bug reports and feature requests
 - **GitHub Discussions**: General questions
 - **Discord**: Real-time community support
-- **Email**: security@zkml-guard.org
+- **Email**: nv262@cornell.edu
 
 ---
 
 ## ✉️ Contact
 
 For questions about Open Science compliance:
-- **Email**: openscience@zkml-guard.org
+- **Email**: nv262@cornell.edu
 - **GitHub**: Open an issue with label `open-science`
 
 ---
 
 ## 📅 Version History
 
-- **v1.0.0** (2025-01): Initial release with full Open Science compliance
+- **v1.0.0** (2026-01): Initial release with full Open Science compliance
   - All code, models, and artifacts released
   - Evaluation dataset published
   - Docker containers available
@@ -349,5 +349,5 @@ If you use this code or data in your research, please cite:
 
 ---
 
-**Last Updated**: January 2025  
+**Last Updated**: January 2026  
 **Compliance Review**: ✅ All Open Science requirements met
