@@ -236,7 +236,7 @@ Contributors will be:
 
 - **General questions**: GitHub Discussions
 - **Bug reports**: GitHub Issues
-- **Security**: security@zkml-guard.org
+- **Security**: nv262@cornell.edu
 - **Community**: Discord server
 
 Thank you for contributing to ZKML-Guard! 🚀
